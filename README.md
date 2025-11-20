@@ -8,30 +8,38 @@
 <p align="left">--------------</p>
 <hr>
 
-<h3 align="left"><u>Tecnologias & Ferramentas</u></h3>
+<h3 align="left"><u>Tecnologias</u></h3>
 <div>
-<img loading="lazy" src="           " width="60" height="60"/> 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60" height="60"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60"/> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="60" height="60"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="60" height="60"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" height="60"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="60" height="60"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="60" height="60"/>
+</div>
+
+<h3 align="left"><u>Ferramentas</u></h3>
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="60" height="60"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60" height="60" />
-<img loading="            " />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="60" height="60"/>
+</div>
+<hr>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=loki-lgtm&theme=dracula&hide_border=false&border_radius=5&show_icons=true" alt="GitHub Stats" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loki-lgtm&theme=dracula&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="200" />
 </div>
 <hr>
 
 <div align="center">
   <a href="https://github.com/loki-lgtm/github-readme-stats">
-    <img loading="lazy" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loki-lgtm&layout=compact&langs_count=8&theme=dracula&border_color=6272a4&bg_color=282a36" />
-  </a>
-  <a href="https://github.com/loki-lgtm">
-    <img loading="lazy" height="180" src="https://github-readme-stats.vercel.app/api?username=loki-lgtm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_color=6272a4&bg_color=282a36" />
+    <img loading="lazy" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loki-lgtm&layout=compact&langs_count=8&theme=dracula&border_color=6272a4&bg_color=282a36" />
   </a>
 </div>
-
 <hr>
 
 <div align="center">
@@ -42,11 +50,4 @@
   <a href="mailto:whisky.e2007@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="gmail"/>
   </a>
-  <a href="https://github.com/loki-lgtm" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40" alt="github"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loki-lgtm&theme=dracula&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
