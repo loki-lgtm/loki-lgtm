@@ -1,5 +1,4 @@
-<H1 align="left"> Eduardo Augusto</H1>
-<H2 align="left"> Engenharia de Software</H2>
+<H1 align="left"> Engenharia de Software</H1>
 <hr>
 <img loading="lazy" align="left" width="130" height="130" src="https://github.com/user-attachments/assets/6c5c27e4-b134-45b6-b513-0385d71a555f"/>
 <p align="left">Olá, meu nome é Eduardo, sou <b>estudante de engenharia de software</b></p>
